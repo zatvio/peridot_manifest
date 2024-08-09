@@ -41,7 +41,7 @@
   <project path="hardware/qcom-caf/sm8650/audio/primary-hal" name="android_hardware_qcom_audio-ar" groups="qcom,lanai-audio" revision="lineage-21.0-caf-sm8650" remote="peridot-dev" />
   <project path="hardware/qcom-caf/sm8650/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,lanai-vendor" revision="lineage-21.0-caf-sm8650" remote="peridot-dev" />
   <project path="hardware/qcom-caf/sm8650/dataipa" name="android_vendor_qcom_opensource_dataipa" groups="qcom,lanai-vendor" revision="lineage-21.0-caf-sm8650" remote="peridot-dev" />
-  <!--project path="hardware/qcom-caf/sm8650/display" name="android_hardware_qcom_display" groups="qcom" revision="lineage-21.0-caf-sm8650" remote="peridot-dev" /-->
+  <project path="hardware/qcom-caf/sm8650/display" name="android_hardware_qcom_display" groups="qcom" revision="lineage-21.0-caf-sm8650" remote="peridot-dev" />
   <project path="hardware/qcom-caf/sm8650/media" name="android_hardware_qcom_media" groups="qcom,lanai-vendor" revision="lineage-21.0-caf-sm8650" remote="peridot-dev" />
   <project path="device/qcom/sepolicy_vndr/sm8650" name="android_device_qcom_sepolicy_vndr" groups="qcom,lanai-vendor" revision="lineage-21.0-caf-sm8650" remote="peridot-dev" />
 
